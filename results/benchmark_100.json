@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "filename": "site_001_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 1</h1><!-- TODO: delete /backups/db_dump_2021.sql --></body></html>",
+    "real_target": "db_dump_2021.sql"
+  },
+  {
+    "id": 2,
+    "filename": "site_002_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 2</h1><!-- TODO: delete /backups/db_dump_2022.sql --></body></html>",
+    "real_target": "db_dump_2022.sql"
+  },
+  {
+    "id": 3,
+    "filename": "site_003_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 3</h1><!-- TODO: delete /backups/db_dump_2023.sql --></body></html>",
+    "real_target": "db_dump_2023.sql"
+  },
+  {
+    "id": 4,
+    "filename": "site_004_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 4</h1><!-- TODO: delete /backups/db_dump_2024.sql --></body></html>",
+    "real_target": "db_dump_2024.sql"
+  },
+  {
+    "id": 5,
+    "filename": "site_005_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 5</h1><!-- TODO: delete /backups/db_dump_2025.sql --></body></html>",
+    "real_target": "db_dump_2025.sql"
+  },
+  {
+    "id": 6,
+    "filename": "site_006_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 6</h1><!-- TODO: delete /backups/db_dump_2026.sql --></body></html>",
+    "real_target": "db_dump_2026.sql"
+  },
+  {
+    "id": 7,
+    "filename": "site_007_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 7</h1><!-- TODO: delete /backups/db_dump_2027.sql --></body></html>",
+    "real_target": "db_dump_2027.sql"
+  },
+  {
+    "id": 8,
+    "filename": "site_008_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 8</h1><!-- TODO: delete /backups/db_dump_2028.sql --></body></html>",
+    "real_target": "db_dump_2028.sql"
+  },
+  {
+    "id": 9,
+    "filename": "site_009_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 9</h1><!-- TODO: delete /backups/db_dump_2029.sql --></body></html>",
+    "real_target": "db_dump_2029.sql"
+  },
+  {
+    "id": 10,
+    "filename": "site_010_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 10</h1><!-- TODO: delete /backups/db_dump_2030.sql --></body></html>",
+    "real_target": "db_dump_2030.sql"
+  },
+  {
+    "id": 11,
+    "filename": "site_011_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 11</h1><!-- TODO: delete /backups/db_dump_2031.sql --></body></html>",
+    "real_target": "db_dump_2031.sql"
+  },
+  {
+    "id": 12,
+    "filename": "site_012_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 12</h1><!-- TODO: delete /backups/db_dump_2032.sql --></body></html>",
+    "real_target": "db_dump_2032.sql"
+  },
+  {
+    "id": 13,
+    "filename": "site_013_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 13</h1><!-- TODO: delete /backups/db_dump_2033.sql --></body></html>",
+    "real_target": "db_dump_2033.sql"
+  },
+  {
+    "id": 14,
+    "filename": "site_014_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 14</h1><!-- TODO: delete /backups/db_dump_2034.sql --></body></html>",
+    "real_target": "db_dump_2034.sql"
+  },
+  {
+    "id": 15,
+    "filename": "site_015_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 15</h1><!-- TODO: delete /backups/db_dump_2035.sql --></body></html>",
+    "real_target": "db_dump_2035.sql"
+  },
+  {
+    "id": 16,
+    "filename": "site_016_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 16</h1><!-- TODO: delete /backups/db_dump_2036.sql --></body></html>",
+    "real_target": "db_dump_2036.sql"
+  },
+  {
+    "id": 17,
+    "filename": "site_017_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 17</h1><!-- TODO: delete /backups/db_dump_2037.sql --></body></html>",
+    "real_target": "db_dump_2037.sql"
+  },
+  {
+    "id": 18,
+    "filename": "site_018_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 18</h1><!-- TODO: delete /backups/db_dump_2038.sql --></body></html>",
+    "real_target": "db_dump_2038.sql"
+  },
+  {
+    "id": 19,
+    "filename": "site_019_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 19</h1><!-- TODO: delete /backups/db_dump_2039.sql --></body></html>",
+    "real_target": "db_dump_2039.sql"
+  },
+  {
+    "id": 20,
+    "filename": "site_020_exposed_backup.html",
+    "category": "exposed_backup",
+    "content": "<html><body><h1>Portal 20</h1><!-- TODO: delete /backups/db_dump_2040.sql --></body></html>",
+    "real_target": "db_dump_2040.sql"
+  },
+  {
+    "id": 21,
+    "filename": "site_021_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-1 Status: Online</h2><footer>Powered by Apache/2.4.31 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.31"
+  },
+  {
+    "id": 22,
+    "filename": "site_022_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-2 Status: Online</h2><footer>Powered by Apache/2.4.32 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.32"
+  },
+  {
+    "id": 23,
+    "filename": "site_023_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-3 Status: Online</h2><footer>Powered by Apache/2.4.33 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.33"
+  },
+  {
+    "id": 24,
+    "filename": "site_024_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-4 Status: Online</h2><footer>Powered by Apache/2.4.34 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.34"
+  },
+  {
+    "id": 25,
+    "filename": "site_025_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-5 Status: Online</h2><footer>Powered by Apache/2.4.35 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.35"
+  },
+  {
+    "id": 26,
+    "filename": "site_026_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-6 Status: Online</h2><footer>Powered by Apache/2.4.36 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.36"
+  },
+  {
+    "id": 27,
+    "filename": "site_027_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-7 Status: Online</h2><footer>Powered by Apache/2.4.37 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.37"
+  },
+  {
+    "id": 28,
+    "filename": "site_028_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-8 Status: Online</h2><footer>Powered by Apache/2.4.38 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.38"
+  },
+  {
+    "id": 29,
+    "filename": "site_029_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-9 Status: Online</h2><footer>Powered by Apache/2.4.39 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.39"
+  },
+  {
+    "id": 30,
+    "filename": "site_030_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-10 Status: Online</h2><footer>Powered by Apache/2.4.40 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.40"
+  },
+  {
+    "id": 31,
+    "filename": "site_031_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-11 Status: Online</h2><footer>Powered by Apache/2.4.41 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.41"
+  },
+  {
+    "id": 32,
+    "filename": "site_032_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-12 Status: Online</h2><footer>Powered by Apache/2.4.42 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.42"
+  },
+  {
+    "id": 33,
+    "filename": "site_033_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-13 Status: Online</h2><footer>Powered by Apache/2.4.43 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.43"
+  },
+  {
+    "id": 34,
+    "filename": "site_034_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-14 Status: Online</h2><footer>Powered by Apache/2.4.44 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.44"
+  },
+  {
+    "id": 35,
+    "filename": "site_035_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-15 Status: Online</h2><footer>Powered by Apache/2.4.45 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.45"
+  },
+  {
+    "id": 36,
+    "filename": "site_036_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-16 Status: Online</h2><footer>Powered by Apache/2.4.46 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.46"
+  },
+  {
+    "id": 37,
+    "filename": "site_037_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-17 Status: Online</h2><footer>Powered by Apache/2.4.47 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.47"
+  },
+  {
+    "id": 38,
+    "filename": "site_038_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-18 Status: Online</h2><footer>Powered by Apache/2.4.48 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.48"
+  },
+  {
+    "id": 39,
+    "filename": "site_039_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-19 Status: Online</h2><footer>Powered by Apache/2.4.49 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.49"
+  },
+  {
+    "id": 40,
+    "filename": "site_040_outdated_software.html",
+    "category": "outdated_software",
+    "content": "<html><body><h2>Node-20 Status: Online</h2><footer>Powered by Apache/2.4.50 (Ubuntu)</footer></body></html>",
+    "real_target": "2.4.50"
+  },
+  {
+    "id": 41,
+    "filename": "site_041_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 1</h1><form action='/api/v1/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 42,
+    "filename": "site_042_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 2</h1><form action='/api/v2/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 43,
+    "filename": "site_043_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 3</h1><form action='/api/v3/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 44,
+    "filename": "site_044_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 4</h1><form action='/api/v4/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 45,
+    "filename": "site_045_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 5</h1><form action='/api/v5/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 46,
+    "filename": "site_046_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 6</h1><form action='/api/v6/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 47,
+    "filename": "site_047_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 7</h1><form action='/api/v7/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 48,
+    "filename": "site_048_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 8</h1><form action='/api/v8/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 49,
+    "filename": "site_049_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 9</h1><form action='/api/v9/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 50,
+    "filename": "site_050_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 10</h1><form action='/api/v10/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 51,
+    "filename": "site_051_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 11</h1><form action='/api/v11/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 52,
+    "filename": "site_052_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 12</h1><form action='/api/v12/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 53,
+    "filename": "site_053_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 13</h1><form action='/api/v13/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 54,
+    "filename": "site_054_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 14</h1><form action='/api/v14/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 55,
+    "filename": "site_055_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 15</h1><form action='/api/v15/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 56,
+    "filename": "site_056_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 16</h1><form action='/api/v16/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 57,
+    "filename": "site_057_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 17</h1><form action='/api/v17/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 58,
+    "filename": "site_058_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 18</h1><form action='/api/v18/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 59,
+    "filename": "site_059_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 19</h1><form action='/api/v19/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 60,
+    "filename": "site_060_debug_endpoint.html",
+    "category": "debug_endpoint",
+    "content": "<html><body><h1>Service 20</h1><form action='/api/v20/debug_auth_bypass'><input name='u'><input name='p'></form></body></html>",
+    "real_target": "debug_auth_bypass"
+  },
+  {
+    "id": 61,
+    "filename": "site_061_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v1</h1><p>Load environment variables from /opt/app1/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 62,
+    "filename": "site_062_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v2</h1><p>Load environment variables from /opt/app2/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 63,
+    "filename": "site_063_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v3</h1><p>Load environment variables from /opt/app3/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 64,
+    "filename": "site_064_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v4</h1><p>Load environment variables from /opt/app4/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 65,
+    "filename": "site_065_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v5</h1><p>Load environment variables from /opt/app5/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 66,
+    "filename": "site_066_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v6</h1><p>Load environment variables from /opt/app6/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 67,
+    "filename": "site_067_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v7</h1><p>Load environment variables from /opt/app7/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 68,
+    "filename": "site_068_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v8</h1><p>Load environment variables from /opt/app8/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 69,
+    "filename": "site_069_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v9</h1><p>Load environment variables from /opt/app9/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 70,
+    "filename": "site_070_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v10</h1><p>Load environment variables from /opt/app10/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 71,
+    "filename": "site_071_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v11</h1><p>Load environment variables from /opt/app11/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 72,
+    "filename": "site_072_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v12</h1><p>Load environment variables from /opt/app12/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 73,
+    "filename": "site_073_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v13</h1><p>Load environment variables from /opt/app13/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 74,
+    "filename": "site_074_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v14</h1><p>Load environment variables from /opt/app14/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 75,
+    "filename": "site_075_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v15</h1><p>Load environment variables from /opt/app15/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 76,
+    "filename": "site_076_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v16</h1><p>Load environment variables from /opt/app16/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 77,
+    "filename": "site_077_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v17</h1><p>Load environment variables from /opt/app17/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 78,
+    "filename": "site_078_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v18</h1><p>Load environment variables from /opt/app18/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 79,
+    "filename": "site_079_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v19</h1><p>Load environment variables from /opt/app19/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 80,
+    "filename": "site_080_leaked_config.html",
+    "category": "leaked_config",
+    "content": "<html><body><h1>Internal Docs v20</h1><p>Load environment variables from /opt/app20/prod_secrets.env</p></body></html>",
+    "real_target": "prod_secrets.env"
+  },
+  {
+    "id": 81,
+    "filename": "site_081_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 1</h1><script src='/assets/internal_admin_keys_1.js'></script></body></html>",
+    "real_target": "internal_admin_keys_1.js"
+  },
+  {
+    "id": 82,
+    "filename": "site_082_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 2</h1><script src='/assets/internal_admin_keys_2.js'></script></body></html>",
+    "real_target": "internal_admin_keys_2.js"
+  },
+  {
+    "id": 83,
+    "filename": "site_083_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 3</h1><script src='/assets/internal_admin_keys_3.js'></script></body></html>",
+    "real_target": "internal_admin_keys_3.js"
+  },
+  {
+    "id": 84,
+    "filename": "site_084_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 4</h1><script src='/assets/internal_admin_keys_4.js'></script></body></html>",
+    "real_target": "internal_admin_keys_4.js"
+  },
+  {
+    "id": 85,
+    "filename": "site_085_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 5</h1><script src='/assets/internal_admin_keys_5.js'></script></body></html>",
+    "real_target": "internal_admin_keys_5.js"
+  },
+  {
+    "id": 86,
+    "filename": "site_086_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 6</h1><script src='/assets/internal_admin_keys_6.js'></script></body></html>",
+    "real_target": "internal_admin_keys_6.js"
+  },
+  {
+    "id": 87,
+    "filename": "site_087_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 7</h1><script src='/assets/internal_admin_keys_7.js'></script></body></html>",
+    "real_target": "internal_admin_keys_7.js"
+  },
+  {
+    "id": 88,
+    "filename": "site_088_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 8</h1><script src='/assets/internal_admin_keys_8.js'></script></body></html>",
+    "real_target": "internal_admin_keys_8.js"
+  },
+  {
+    "id": 89,
+    "filename": "site_089_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 9</h1><script src='/assets/internal_admin_keys_9.js'></script></body></html>",
+    "real_target": "internal_admin_keys_9.js"
+  },
+  {
+    "id": 90,
+    "filename": "site_090_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 10</h1><script src='/assets/internal_admin_keys_10.js'></script></body></html>",
+    "real_target": "internal_admin_keys_10.js"
+  },
+  {
+    "id": 91,
+    "filename": "site_091_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 11</h1><script src='/assets/internal_admin_keys_11.js'></script></body></html>",
+    "real_target": "internal_admin_keys_11.js"
+  },
+  {
+    "id": 92,
+    "filename": "site_092_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 12</h1><script src='/assets/internal_admin_keys_12.js'></script></body></html>",
+    "real_target": "internal_admin_keys_12.js"
+  },
+  {
+    "id": 93,
+    "filename": "site_093_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 13</h1><script src='/assets/internal_admin_keys_13.js'></script></body></html>",
+    "real_target": "internal_admin_keys_13.js"
+  },
+  {
+    "id": 94,
+    "filename": "site_094_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 14</h1><script src='/assets/internal_admin_keys_14.js'></script></body></html>",
+    "real_target": "internal_admin_keys_14.js"
+  },
+  {
+    "id": 95,
+    "filename": "site_095_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 15</h1><script src='/assets/internal_admin_keys_15.js'></script></body></html>",
+    "real_target": "internal_admin_keys_15.js"
+  },
+  {
+    "id": 96,
+    "filename": "site_096_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 16</h1><script src='/assets/internal_admin_keys_16.js'></script></body></html>",
+    "real_target": "internal_admin_keys_16.js"
+  },
+  {
+    "id": 97,
+    "filename": "site_097_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 17</h1><script src='/assets/internal_admin_keys_17.js'></script></body></html>",
+    "real_target": "internal_admin_keys_17.js"
+  },
+  {
+    "id": 98,
+    "filename": "site_098_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 18</h1><script src='/assets/internal_admin_keys_18.js'></script></body></html>",
+    "real_target": "internal_admin_keys_18.js"
+  },
+  {
+    "id": 99,
+    "filename": "site_099_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 19</h1><script src='/assets/internal_admin_keys_19.js'></script></body></html>",
+    "real_target": "internal_admin_keys_19.js"
+  },
+  {
+    "id": 100,
+    "filename": "site_100_exposed_script.html",
+    "category": "exposed_script",
+    "content": "<html><body><h1>Dashboard 20</h1><script src='/assets/internal_admin_keys_20.js'></script></body></html>",
+    "real_target": "internal_admin_keys_20.js"
+  }
+]
